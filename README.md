@@ -19,8 +19,8 @@ The objective of this flutter application about asynchronous programming in Dart
 ## tutorial_coach_mark: ^0.3.0
 
 
-
 ![Output sample](time _in_cities.gif)
+
 
 ## What I've learned ?
 
