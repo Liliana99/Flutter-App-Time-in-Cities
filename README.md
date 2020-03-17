@@ -20,7 +20,7 @@ The objective of this flutter application about asynchronous programming in Dart
 
 
 
-![Output sample](time _in_cities.gif)
+![Output sample](time_in_cities.gif)
 
 ## What I've learned ?
 
