@@ -10,10 +10,16 @@ The objective of this flutter application about asynchronous programming in Dart
 
 ## What packages I've used to build it?
 
-geolocator: ^5.1.5
-http: ^0.12.0+2
-flutter_spinkit: ^4.1.1
-tutorial_coach_mark: ^0.3.0
+## geolocator: ^5.1.5
+
+## http: ^0.12.0+2
+
+##flutter_spinkit: ^4.1.1
+
+##tutorial_coach_mark: ^0.3.0
+
+
+
 
 ![Output sample](clima.gif)
 
