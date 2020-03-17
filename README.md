@@ -5,7 +5,7 @@
 
 ## My  Goal
 
-The objective of this tutorial is to learn about asynchronous programming in Dart. We'll look at how to carry out time consuming tasks such as getting device location and networking to get data from the internet. 
+The objective of this flutter application about asynchronous programming in Dart.It shows how to carry out time consuming tasks such as getting device location and networking to get data from the internet. 
 
 
 ## What packages I've used to build it?
@@ -15,7 +15,7 @@ http: ^0.12.0+2
 flutter_spinkit: ^4.1.1
 tutorial_coach_mark: ^0.3.0
 
-![Output sample](ezgif.com-video-to-gif.gif)
+![Output sample](clima.gif)
 
 ## What you will learn
 
@@ -32,6 +32,6 @@ tutorial_coach_mark: ^0.3.0
 - How to use the TextField Widget to take user input.
 
 
->Feel free vivit my webpage to see more details (http://www.marialijideveloper.com/)
+>Feel free visit my webpage to see more details (http://www.marialijideveloper.com/)
 
 
