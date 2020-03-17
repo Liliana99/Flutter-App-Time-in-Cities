@@ -1,0 +1,4 @@
+#Mon Feb 10 19:22:34 CET 2020
+base.0=/Users/NIRBUNI/Desktop/FlutterApps/bootcamp_curso/Clima-Flutter-master/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
