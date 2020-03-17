@@ -14,9 +14,9 @@ The objective of this flutter application about asynchronous programming in Dart
 
 ## http: ^0.12.0+2
 
-##flutter_spinkit: ^4.1.1
+## flutter_spinkit: ^4.1.1
 
-##tutorial_coach_mark: ^0.3.0
+## tutorial_coach_mark: ^0.3.0
 
 
 
